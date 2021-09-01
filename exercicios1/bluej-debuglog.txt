@@ -1,0 +1,71 @@
+BlueJ run started: Mon Aug 30 19:24:48 BRT 2021
+BlueJ version 5.0.2
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Detected language "portuguese" based on iso639-2 code "por"
+Opening project: C:\Users\Jean V\Documents\DWBIII\projet1
+1630362484273: Listening for JDWP connection on address: javadebug
+java.io.FileNotFoundException while reading import cache: C:\Users\Jean V\bluej\import-cache.xml (O sistema não pode encontrar o arquivo especificado)
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: C:\Users\Jean V\Documents\DWBIII\aula3
+1630364590552: Listening for JDWP connection on address: javadebug
+java.io.FileNotFoundException while reading import cache: C:\Users\Jean V\bluej\import-cache.xml (O sistema não pode encontrar o arquivo especificado)
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Tue Aug 31 19:40:45 BRT 2021
+BlueJ version 5.0.2
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\Jean V\Documents\DWBIII\aula3
+1630449647232: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: C:\Users\Jean V\Documents\DWBIII\aula4
+1630449658621: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: C:\Users\Jean V\Documents\DWBIII\exercicios1
+1630457449964: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 939: java.util.InputMismatchException:
+null
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 1594: java.util.InputMismatchException:
+null (in java.util.Scanner)
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 2258: java.util.InputMismatchException:
+null (in java.util.Scanner)
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 2212: java.util.InputMismatchException:
+null (in java.util.Scanner)
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 939: java.util.InputMismatchException:
+null
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 1594: java.util.InputMismatchException:
+null (in java.util.Scanner)
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 2258: java.util.InputMismatchException:
+null (in java.util.Scanner)
+Error or exception for source not in project: C:\Users\Jean V\Documents\DWBIII\exercicios1\Scanner.java, line 2212: java.util.InputMismatchException:
+null (in java.util.Scanner)
+org.apache.http.conn.ConnectTimeoutException: Connect to blackbox.bluej.org/blackbox.bluej.org/137.73.113.105 timed out
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:377)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:148)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:149)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:561)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:415)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:732)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:178)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:134)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:106)
